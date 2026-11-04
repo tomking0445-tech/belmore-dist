@@ -1,0 +1,25 @@
+{
+    "version":  "0.55.0",
+    "minecraft":  "1.21.1",
+    "neoforge":  "21.1.264",
+    "launcher":  "1",
+    "server":  "belmore.kro.kr",
+    "notice":  "벨모어 0.55.0\n백업과 관리 도구, 벨모어 런처 첫 배포",
+    "clean":  [
+                  "mods"
+              ],
+    "files":  [
+                  {
+                      "path":  "servers.dat",
+                      "sha1":  "cb41f94c6e87ad116a1da540cd8f823b4cb54c12",
+                      "size":  77,
+                      "once":  true
+                  },
+                  {
+                      "path":  "mods/albioncraft-0.55.0.jar",
+                      "sha1":  "0beec1b284ef899a600efbb4e7e662c8e0dd3104",
+                      "size":  31199829,
+                      "once":  false
+                  }
+              ]
+}
