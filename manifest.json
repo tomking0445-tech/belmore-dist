@@ -1,5 +1,5 @@
 {
-    "version":  "0.60.4",
+    "version":  "0.60.6",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.264",
     "launcher":  "1",
@@ -16,9 +16,9 @@
                       "once":  true
                   },
                   {
-                      "path":  "mods/albioncraft-0.60.4.jar",
-                      "sha1":  "20e2558889c507d9914fd1272e94480a5711b5b0",
-                      "size":  31247701,
+                      "path":  "mods/albioncraft-0.60.6.jar",
+                      "sha1":  "48c741acfc020a22e5425f7f145e22203478c50d",
+                      "size":  31248164,
                       "once":  false
                   }
               ]
